@@ -3,7 +3,7 @@ import "firebase/firestore";
 import "firebase/auth";
 
 const config = {
-  apiKey: "AIzaSyDYfBzy64xGj1R1yfuzkjddV5Jki9KL-Uk",
+  apiKey: "not your business",
   authDomain: "crown-clothing-6bc82.firebaseapp.com",
   databaseURL: "https://crown-clothing-6bc82.firebaseio.com",
   projectId: "crown-clothing-6bc82",
